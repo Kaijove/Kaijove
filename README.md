@@ -1,9 +1,8 @@
-```markdown
 <div align="center">
 
 # Hey, I'm Kai 👋
 
-### 16 y/o IT Student • Learning by Building
+### IT Student • Builder • Curious Mind • Overthinker • Problem Solver
 
 > *"Learning by building."*
 
@@ -19,15 +18,15 @@
 
 ## 🌌 About Me
 
-I'm a **16-year-old IT student** passionate about understanding **how technology works**, not just how to use it.
+I'm an IT student from Spain passionate about understanding **how technology works**, not just how to use it.
 
-I love building personal projects that challenge me to learn something new. Whether it's developing a web application, setting up a server, automating a task, or experimenting with AI, I enjoy turning ideas into reality.
+I love building personal projects that challenge me to learn something new. Whether it's developing a web application, setting up a server, automating a task, or experimenting with AI, I enjoy the process of turning ideas into reality.
 
-I'm naturally curious and always asking **why**. I like understanding how things work, how they can be improved, and what the best solution is. Every project is an opportunity to learn, experiment, and become a better developer.
+I'm naturally curious and I tend to question everything. I like understanding **why** things work the way they do, how they can be improved, and what the best solution is. For me, every project is an opportunity to learn, experiment and grow.
 
-Outside of technology, I'm also learning **Japanese 🇯🇵** and enjoy exploring different cultures and ways of thinking.
+Outside of technology, I also speak **Japanese 🇯🇵**, and I enjoy exploring new cultures and ways of thinking.
 
-I'm still at the beginning of my journey, but I'm excited to keep learning, building, and sharing my progress.
+I believe the best way to improve is by staying curious, building consistently, and never stopping learning.
 
 ---
 
@@ -56,47 +55,39 @@ I'm still at the beginning of my journey, but I'm excited to keep learning, buil
 
 ## 🛠️ Tech Stack
 
-> **I'm still at the beginning of my journey.**
->
-> At 16, I don't know everything—and that's okay.
-> Every project I build teaches me something new.
-> These are the technologies I'm currently learning, exploring, and improving every day.
-
 <div align="center">
 
-### 🌱 Currently Learning
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bash,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bash" />
 
-### 💻 Operating Systems
+### 🖥️ Operating Systems
 
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,debian" />
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" />
 
-### 🌐 Exploring
+### 🌐 Networking & Infrastructure
 
-<img src="https://img.shields.io/badge/Cisco-Learning-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/UniFi-Learning-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white">
-<img src="https://img.shields.io/badge/MikroTik-Learning-293239?style=for-the-badge">
-<img src="https://img.shields.io/badge/Home%20Assistant-Homelab-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white">
+<img src="https://skillicons.dev/icons?i=cloudflare" />
 
-### 🎯 Current Goal
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white">
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge">
 
-To become a better developer by building real-world projects, one step at a time.
+### 🧰 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+### ☁️ Virtualization & Servers
+
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white">
+
+### ⚡ Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
 
 </div>
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build meaningful portfolio projects
-- 🌐 Improve my JavaScript skills
-- 🐧 Become more confident with Linux
-- 🌍 Learn more about Networking
-- 🤖 Explore AI and Automation
-- 🏠 Expand my Home Lab
-- ☁️ Learn Cloud fundamentals
-- 📚 Never stop learning
 
 ---
 
@@ -124,23 +115,7 @@ To become a better developer by building real-world projects, one step at a time
 
 <div align="center">
 
-## 🌱 Currently Working On
-
-💻 Building personal projects
-
-🌤️ Creating **SkyMood**, an immersive weather & productivity web app
-
-🏠 Expanding my Home Lab
-
-📚 Learning something new every day
-
-</div>
-
----
-
-<div align="center">
-
-## The Journey Continues
+## 🌅 The Journey Continues
 
 <img src="3.gif" width="80%">
 
@@ -154,20 +129,18 @@ To become a better developer by building real-world projects, one step at a time
 
 > *"Always ask why. Then build the answer."*
 
-> *"Every expert was once a beginner who refused to quit."*
+> *"Knowledge means nothing if you never use it to create something."*
 
 ---
 
 <div align="center">
 
-## 🌙 Stay Curious.
+## 🌙 Stay curious.
 
 <img src="4.gif" width="80%">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile.
 
 *"The best project I'll ever build is the person I'm becoming."*
 
 </div>
-```
-
