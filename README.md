@@ -2,8 +2,7 @@
 
 # Hey, I'm Kai 👋
 
-### IT Student • Builder • Curious Mind • Overthinker • Problem Solver
-
+### IT Student • Builder • Curious Mind • Overthinker • 
 > *"Learning by building."*
 
 <p align="center">
