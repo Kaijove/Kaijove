@@ -2,258 +2,194 @@
 
 # Hey, I'm Kai 👋
 
-### IT Student • Builder • Linux Enthusiast • Future Sysadmin
+### IT Student • Builder • Lifelong Learner
+
+> *"Learning by building."*
 
 <p align="center">
     <img src="1.gif" width="100%">
 </p>
 
-> *"Learning by building. Improving by failing. Growing every day."*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=F78DA7&center=true&vCenter=true&width=700&lines=Building+cool+things.;Learning+every+day.;Web+Development.;Linux+%26+Networking.;Cybersecurity.;AI+Enthusiast.;Home+Lab+Builder.;Automation+Projects." />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌌 About Me
 
-I'm currently studying **Systems, Microcomputer Networks and IT Infrastructure (SMX)** and spending most of my time building projects, breaking things, fixing them, and learning how technology really works.
+I'm an IT student currently studying **SMX (Microcomputer Systems & Networks)** in Spain.
 
-I enjoy understanding what's behind the screen:
+I enjoy creating projects that combine **technology, creativity and real-world solutions**. Most of my learning comes from building things on my own, experimenting, breaking systems and figuring out how they work.
 
-- 🖥️ Systems Administration
-- 🌐 Networking
-- 🐧 Linux
+I'm especially interested in:
+
+- 🌐 Web Development
+- 🐧 Linux & System Administration
+- 🌍 Networking
 - 🔒 Cybersecurity
-- ☁️ Self-Hosting
 - 🤖 Artificial Intelligence
-- ⚡ Automation
-
-I believe the best way to learn is to build real projects and experiment with new technologies.
-
----
-
-## 🎯 Current Journey
-
-```text
-[██████████░░░░░░░░░░] Web Development
-[████████████░░░░░░░░] Linux
-[███████████░░░░░░░░░] Networking
-[████████░░░░░░░░░░░░] Cybersecurity
-[██████░░░░░░░░░░░░░░] AI & Automation
-```
+- 🏠 Home Automation
+- ⚡ Automation & Scripting
+- 🇯🇵 Japanese Language & Culture
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Web
+<div align="center">
 
-<p>
+### Languages & Web
 <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
 
-### 🐧 Systems & Linux
+### Systems & Networking
+<img src="https://skillicons.dev/icons?i=linux,bash,debian,ubuntu" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
-### 🔧 Tools
-
-<p>
+### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
-### 📚 Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,react,nodejs" />
-</p>
+</div>
 
 ---
 
-# 🎓 What I've Worked On At School
+## 📚 What I've Learned in SMX
 
-### Systems Administration
+### 💻 Operating Systems
+- Windows 10 / 11 administration
+- Linux installation and configuration
+- User and permissions management
+- Disk partitions and file systems
+- System updates and maintenance
 
-- Windows 10 / 11 Installation
-- User & Group Management
-- Virtual Machines
-- Hyper-V
+### 🖥️ Virtualization
 - VirtualBox
-- Disk Management
-- Backup Strategies
-- Active Directory Fundamentals
+- Hyper-V
+- Creating virtual machines
+- Dual-boot environments
+- Ubuntu & Debian virtual servers
 
-### Linux
-
-- Ubuntu
-- Debian
-- Linux Mint
-- Package Management
-- Shell Commands
-- User Permissions
-- Services & Processes
-- Bash Scripting
-
-### Networking
-
-- OSI Model
-- TCP/IP
-- IPv4 Addressing
+### 🌐 Networking
+- OSI model
+- IP addressing
 - Subnetting
-- DNS
-- DHCP
-- Routing Basics
-- Switching
-- VLAN Concepts
-- Network Troubleshooting
+- DNS / DHCP
+- LAN configuration
+- Routers & switches
+- Basic network troubleshooting
 
-### Hardware
+### 🔒 Security
+- Firewall concepts
+- Basic cybersecurity practices
+- Access control
+- System hardening
 
-- PC Assembly
-- Component Diagnosis
-- Hardware Maintenance
-- Storage Devices
-- BIOS / UEFI
-
-### Cybersecurity Fundamentals
-
-- Security Best Practices
-- Firewalls
-- Permissions
-- Basic Hardening
+### 🛠️ Hardware
+- PC assembly and maintenance
+- Component diagnostics
+- Power supply troubleshooting
+- Storage devices
 
 ---
 
-## 💼 Internship Experience
+## 🏢 Current Internship (FCT)
 
-Currently completing my professional internship (FCT).
+Currently doing my internship where I'm gaining experience with:
 
-Working with:
-
-- Network infrastructure
-- System administration
-- Real business environments
-- IT support
-- Troubleshooting
-- Documentation
-- Professional workflows
-
-Learning every day from real-world situations and gaining hands-on experience.
+- Network administration
+- System support
+- Hardware maintenance
+- User assistance
+- Device configuration
+- Basic infrastructure management
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌤️ CoZy
-
-Weather + Productivity Dashboard
-
-- Weather API
-- Ambient Sounds
-- Pomodoro Timer
+An immersive dashboard that combines:
+- Real-time weather
+- Ambient sounds
+- Pomodoro timer
 - Calendar
-- Todo List
-- Dynamic UI
+- Todo list
+- Dynamic themes
 
----
-
-### 🏠 Home Assistant Labs
-
-Exploring:
-
-- Home Automation
+### 🏠 Home Assistant Lab
+Home automation experiments with:
+- Sensors
 - Dashboards
-- Smart Devices
-- Self Hosting
+- Automations
+- Local services
 
----
-
-### 🌐 Networking Labs
-
-Personal experiments involving:
-
-- VPNs
-- MikroTik
-- UniFi
-- pfSense
+### 🌍 Networking Labs
+Practical exercises with:
+- VLANs
 - Routing
-- Firewalls
-
----
-
-## ⚔️ Philosophy
-
-<p align="center">
-    <img src="2.gif" width="80%">
-</p>
-
-> Technology isn't only about code.
->
-> It's about curiosity, discipline and continuous improvement.
+- VPNs
+- Firewall configuration
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KAIJOVE2909&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KAIJOVE2909&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=KAIJOVE2909&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=KAIJOVE2909&theme=transparent&hide_border=true"/>
 
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- JavaScript
-- Frontend Development
-- Linux Administration
-- Networking
-- Cybersecurity
-- Automation
-- Self Hosting
+</div>
 
 ---
-
-## 🏔️ Keep Moving Forward
-
-<p align="center">
-    <img src="3.gif" width="80%">
-</p>
-
-> Every project teaches something.
->
-> Every mistake teaches even more.
-
----
-
-## 🔥 Future Goals
-
-- Build a strong portfolio
-- Learn React
-- Learn Docker
-- Improve Linux skills
-- Improve Networking skills
-- Contribute to Open Source
-- Reach advanced English level
-- Continue learning Japanese 🇯🇵
-
----
-
-## 🌅 The Journey Continues
-
-<p align="center">
-    <img src="4.gif" width="80%">
-</p>
 
 <div align="center">
 
-### Thanks for visiting my profile ⭐
+## ⚔️ Keep Moving Forward
 
-*"Stay curious."*
+<img src="2.gif" width="80%">
+
+</div>
+
+---
+
+## 🎯 Goals for 2026
+
+- Build a strong portfolio
+- Improve my JavaScript skills
+- Learn React
+- Deepen my Linux knowledge
+- Create more automation projects
+- Contribute to Open Source
+- Reach a higher level in Japanese
+
+---
+
+<div align="center">
+
+## 🌅 The Journey Continues
+
+<img src="3.gif" width="80%">
+
+</div>
+
+---
+
+## 💭 Philosophy
+
+> *"The world isn't changed by people who know everything."*  
+> *It's changed by people who keep learning and keep building.*
+
+---
+
+<div align="center">
+
+## 🌙 Stay curious.
+
+<img src="4.gif" width="80%">
+
+### ⭐ Thanks for visiting my profile
+
+**Made with curiosity, coffee and a lot of learning.**
 
 </div>
