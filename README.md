@@ -55,6 +55,9 @@ I believe the best way to improve is by staying curious, building consistently, 
 ## 🛠️ Tech Stack
 
 <div align="center">
+    
+> I'm 16, so my tech stack is still growing.
+> Every project teaches me something new, and this list gets a little bigger every day.
 
 ### 💻 Languages
 
