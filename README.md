@@ -2,7 +2,7 @@
 
 # Hey, I'm Kai 👋
 
-### IT Student • Builder • Curious Mind • Overthinker • Problem Solver
+### IT Student • Builder • Curious Mind • Overthinker 
 
 > *"Learning by building."*
 
@@ -18,7 +18,7 @@
 
 ## 🌌 About Me
 
-I'm an IT student from Spain passionate about understanding **how technology works**, not just how to use it.
+I'm an IT student passionate about understanding **how technology works**, not just how to use it.
 
 I love building personal projects that challenge me to learn something new. Whether it's developing a web application, setting up a server, automating a task, or experimenting with AI, I enjoy the process of turning ideas into reality.
 
@@ -83,9 +83,6 @@ I believe the best way to improve is by staying curious, building consistently, 
 <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white">
 
-### ⚡ Currently Exploring
-
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
 
 </div>
 
