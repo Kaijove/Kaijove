@@ -2,7 +2,7 @@
 
 # Hey, I'm Kai 👋
 
-### IT Student • Builder • Lifelong Learner
+### IT Student • Builder • Curious Mind • Overthinker • Problem Solver
 
 > *"Learning by building."*
 
@@ -10,7 +10,7 @@
     <img src="1.gif" width="100%">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=F78DA7&center=true&vCenter=true&width=700&lines=Building+cool+things.;Learning+every+day.;Web+Development.;Linux+%26+Networking.;Cybersecurity.;AI+Enthusiast.;Home+Lab+Builder.;Automation+Projects." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=F78DA7&center=true&vCenter=true&width=850&lines=Building+cool+things.;Always+asking+why.;Turning+ideas+into+projects.;Learning+every+day.;Web+Development.;Linux+%26+Systems.;Networking.;Cybersecurity.;Artificial+Intelligence.;Automation.;Home+Lab+Builder." />
 
 </div>
 
@@ -18,20 +18,38 @@
 
 ## 🌌 About Me
 
-I'm an IT student currently studying **SMX (Microcomputer Systems & Networks)** in Spain.
+I'm an IT student from Spain passionate about understanding **how technology works**, not just how to use it.
 
-I enjoy creating projects that combine **technology, creativity and real-world solutions**. Most of my learning comes from building things on my own, experimenting, breaking systems and figuring out how they work.
+I love building personal projects that challenge me to learn something new. Whether it's developing a web application, setting up a server, automating a task, or experimenting with AI, I enjoy the process of turning ideas into reality.
 
-I'm especially interested in:
+I'm naturally curious and I tend to question everything. I like understanding **why** things work the way they do, how they can be improved, and what the best solution is. For me, every project is an opportunity to learn, experiment and grow.
 
+Outside of technology, I also speak **Japanese 🇯🇵**, and I enjoy exploring new cultures and ways of thinking.
+
+I believe the best way to improve is by staying curious, building consistently, and never stopping learning.
+
+---
+
+## 🚀 Interests
+
+- 🤖 Artificial Intelligence
 - 🌐 Web Development
-- 🐧 Linux & System Administration
+- 🐧 Linux
+- 💻 Operating Systems
 - 🌍 Networking
 - 🔒 Cybersecurity
-- 🤖 Artificial Intelligence
-- 🏠 Home Automation
-- ⚡ Automation & Scripting
-- 🇯🇵 Japanese Language & Culture
+- 🏠 Home Labs
+- ⚙️ Automation
+- ☁️ Self-hosting
+- 🖥️ System Administration
+- 🧩 Problem Solving
+- 🎨 UI / UX
+- 📡 Infrastructure
+- 🔧 Hardware
+- 🧠 Technology Research
+- 🚀 Open Source
+- 💡 Creativity
+- 📚 Continuous Learning
 
 ---
 
@@ -39,105 +57,35 @@ I'm especially interested in:
 
 <div align="center">
 
-### Languages & Web
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+### 💻 Languages
 
-### Systems & Networking
-<img src="https://skillicons.dev/icons?i=linux,bash,debian,ubuntu" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bash" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### 🖥️ Operating Systems
 
-</div>
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" />
 
----
+### 🌐 Networking & Infrastructure
 
-## 📚 What I've Learned in SMX
+<img src="https://skillicons.dev/icons?i=cloudflare" />
 
-### 💻 Operating Systems
-- Windows 10 / 11 administration
-- Linux installation and configuration
-- User and permissions management
-- Disk partitions and file systems
-- System updates and maintenance
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white">
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge">
 
-### 🖥️ Virtualization
-- VirtualBox
-- Hyper-V
-- Creating virtual machines
-- Dual-boot environments
-- Ubuntu & Debian virtual servers
+### 🧰 Development Tools
 
-### 🌐 Networking
-- OSI model
-- IP addressing
-- Subnetting
-- DNS / DHCP
-- LAN configuration
-- Routers & switches
-- Basic network troubleshooting
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
-### 🔒 Security
-- Firewall concepts
-- Basic cybersecurity practices
-- Access control
-- System hardening
+### ☁️ Virtualization & Servers
 
-### 🛠️ Hardware
-- PC assembly and maintenance
-- Component diagnostics
-- Power supply troubleshooting
-- Storage devices
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white">
 
----
+### ⚡ Currently Exploring
 
-## 🏢 Current Internship (FCT)
-
-Currently doing my internship where I'm gaining experience with:
-
-- Network administration
-- System support
-- Hardware maintenance
-- User assistance
-- Device configuration
-- Basic infrastructure management
-
----
-
-## 🚀 Featured Projects
-
-### 🌤️ CoZy
-An immersive dashboard that combines:
-- Real-time weather
-- Ambient sounds
-- Pomodoro timer
-- Calendar
-- Todo list
-- Dynamic themes
-
-### 🏠 Home Assistant Lab
-Home automation experiments with:
-- Sensors
-- Dashboards
-- Automations
-- Local services
-
-### 🌍 Networking Labs
-Practical exercises with:
-- VLANs
-- Routing
-- VPNs
-- Firewall configuration
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KAIJOVE2909&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=KAIJOVE2909&theme=transparent&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
 
 </div>
 
@@ -153,15 +101,15 @@ Practical exercises with:
 
 ---
 
-## 🎯 Goals for 2026
+## 📈 GitHub Stats
 
-- Build a strong portfolio
-- Improve my JavaScript skills
-- Learn React
-- Deepen my Linux knowledge
-- Create more automation projects
-- Contribute to Open Source
-- Reach a higher level in Japanese
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaijove&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Kaijove&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -177,8 +125,11 @@ Practical exercises with:
 
 ## 💭 Philosophy
 
-> *"The world isn't changed by people who know everything."*  
-> *It's changed by people who keep learning and keep building.*
+> *"Curiosity is the beginning of every great project."*
+
+> *"Always ask why. Then build the answer."*
+
+> *"Knowledge means nothing if you never use it to create something."*
 
 ---
 
@@ -188,8 +139,8 @@ Practical exercises with:
 
 <img src="4.gif" width="80%">
 
-### ⭐ Thanks for visiting my profile
+### ⭐ Thanks for visiting my profile.
 
-**Made with curiosity, coffee and a lot of learning.**
+*"The best project I'll ever build is the person I'm becoming."*
 
 </div>
