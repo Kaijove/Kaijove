@@ -17,7 +17,7 @@
 
 ## 🌌 About Me
 
-I'm an IT student from Spain passionate about understanding **how technology works**, not just how to use it.
+I'm a 16y/o IT student passionate about understanding **how technology works**, not just how to use it.
 
 I love building personal projects that challenge me to learn something new. Whether it's developing a web application, setting up a server, automating a task, or experimenting with AI, I enjoy the process of turning ideas into reality.
 
