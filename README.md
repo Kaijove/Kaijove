@@ -110,6 +110,8 @@ I believe the best way to improve is by staying curious, building consistently, 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaijove&show_icons=true&theme=transparent&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Kaijove&theme=transparent&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
 
 </div>
 
