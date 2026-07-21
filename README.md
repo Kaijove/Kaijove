@@ -115,7 +115,7 @@ I believe the best way to improve is by staying curious, building consistently, 
 
 <div align="center">
 
-##The Journey Continues
+## 🎯 The Journey Continues
 
 <img src="3.gif" width="80%">
 
