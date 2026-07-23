@@ -123,15 +123,6 @@ I believe the best way to improve is by staying curious, building consistently, 
 
 ---
 
-## 💭 Philosophy
-
-> *"Curiosity is the beginning of every great project."*
-
-> *"Always ask why. Then build the answer."*
-
-> *"Knowledge means nothing if you never use it to create something."*
-
----
 
 <div align="center">
 
