@@ -3,10 +3,7 @@
 # Hey, I'm Kai 👋
 
 ### IT Student • Builder • Curious Mind • Overthinker 
-┌──────────────────────────────────────┐
-│ me and my dreams against the world.  │
-└──────────────────────────────────────┘
-> *"Learning by building."*
+Me and my ^[[200~ against the world
 
 <p align="center">
     <img src="1.gif" width="100%">
@@ -132,6 +129,7 @@ I believe the best way to improve is by staying curious, building consistently, 
 ## 🌙 Stay curious.
 
 <img src="4.gif" width="80%">
+> *"Learning by building."*
 
 ### ⭐ Thanks for visiting my profile.
 
