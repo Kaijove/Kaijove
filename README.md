@@ -3,10 +3,8 @@
 # Hey, I'm Kai 👋
 
 ### IT Student • Builder • Curious Mind • Overthinker • 
-<h1 align="center">⚡ Me and my dreams against the world.</h1>
-
 <p align="center">
-Building ideas into reality.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=850&lines=%24+whoami;Kai;Building+cool+things...;Learning+never+stops.;Me+and+my+dreams+against+the+world." />
 </p>
 > *"Learning by building."*
 
