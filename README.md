@@ -3,8 +3,9 @@
 # Hey, I'm Kai 👋
 
 ### IT Student • Builder • Curious Mind • Overthinker • 
-011001010101...
-Me and my dreams against the world.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4500&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=%3E+me+and+my+dreams+against+the+world.;%3E+building+the+future%2C+one+commit+at+a+time.;%3E+still+learning.+still+building." />
+</p>
 > *"Learning by building."*
 
 <p align="center">
