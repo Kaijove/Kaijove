@@ -3,7 +3,7 @@
 # Hey, I'm Kai 👋
 
 ### IT Student • Builder • Curious Mind • Overthinker 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Me+and+my+dreams+against+the+world.)](https://git.io/typing-svg)
+Me and my ^[[200~ against the world
 > *"Learning by building."*
 
 <p align="center">
