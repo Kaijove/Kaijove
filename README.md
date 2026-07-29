@@ -3,6 +3,7 @@
 # Hey, I'm Kai 👋
 
 ### IT Student • Builder • Curious Mind • Overthinker • 
+Me and my ^[[200~ against the world
 > *"Learning by building."*
 
 <p align="center">
