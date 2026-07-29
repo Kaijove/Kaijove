@@ -3,7 +3,8 @@
 # Hey, I'm Kai 👋
 
 ### IT Student • Builder • Curious Mind • Overthinker • 
-Me and my ^[[200~ against the world
+011001010101...
+Me and my dreams against the world.
 > *"Learning by building."*
 
 <p align="center">
